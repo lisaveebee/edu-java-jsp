@@ -70,6 +70,8 @@ in `test/` is not available from jetty (except Start.java that runs jetty itself
 test folder is meant for unit tests that are only needed by the developer, not in a
 running web app.
 
+I like to eat eat eat eeples and baneenees.
+
 Periodically, as you finish a feature, you will want to save your progress:
 
      git add --all .
